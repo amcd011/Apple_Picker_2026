@@ -6,7 +6,9 @@ public class Basket : MonoBehaviour
 {
     void Start()
     {
+        // Find a GameObject named ScoreCounter in the Scene Hierarchy
         
+        // Get the ScoreCounter (Script) component of ScoreGO
     }
     
     void Update()
@@ -26,5 +28,7 @@ public class Basket : MonoBehaviour
     void OnCollisionEnter(Collision coll)
     {
         // Find out what hit this basket (CompareTag)
+        
+        // Increase the score
     }
 }

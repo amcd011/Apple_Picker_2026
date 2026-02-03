@@ -25,5 +25,16 @@ public class ApplePicker : MonoBehaviour
     }
     
     // AppleMissed()
+    // Destroy all of the falling apples
+    
+    // Destroy one of the Baskets
+    // Get the index of the last Basket in basketList
+    
+    // Get a reference to that Basket GameObject
+    
+    // Remove the Basket from the list and destroy the GameObject
+    
+    
+    // If there are no Baskets left, restart the game
 
 }
